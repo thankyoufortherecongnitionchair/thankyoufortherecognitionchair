@@ -7,10 +7,13 @@ https://github.com/thankyoufortherecongnitionchair/thankyoufortherecongnitioncha
 
 
 
-
 # Hi there
 
 I'm Aniruddh, a B.Tech Student at Vellore Institute of Technology, Tamil Nadu. Welcome to my GitHub profile.
+
+# 🎨Theme
+
+I try to make apps that have a personal impact on me. Generally I try to couple what I've learnt to my personal passions like music, and writing. with each project, tiny or huge, I aim to showcase what I've experienced in the learning process and tie everything back to my development theme.
 
 ## 🚀 Skills
 
@@ -26,7 +29,7 @@ I'm Aniruddh, a B.Tech Student at Vellore Institute of Technology, Tamil Nadu. W
 
 ## 📂 Projects
 
-- Vinyl Vue Front end (https://github.com/yourusername/project1): A fully functional and dynamic web app made using angular Typescript.
+- Vinyl Vue Front end (https://github.com/thankyoufortherecongnitionchair/vinvuefrontendfinal): A fully functional and dynamic web app made using angular Typescript.
 - Vinyl Vue dashboard+backend(https://github.com/thankyoufortherecongnitionchair/vin-vue-dashboard): the backend to my blog site made through angular, firestore and bootstrap. involves also a dashboard frontend 
 - Espy (https://github.com/thankyoufortherecongnitionchair/espy_backend): A highly robust mailing system that mails users  data about the latest music reviews available by using scraping. also suggests moods entirely based on mood powered by Google palm's bison llm.
 Feel free to explore my repositories and let's connect!
