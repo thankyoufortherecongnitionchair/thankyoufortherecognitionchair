@@ -25,7 +25,6 @@ I try to make apps that have a personal impact on me. Generally I try to couple 
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/aniruddh-tiwari-7ab938134/)
-- [Twitter](https://twitter.com/yourtwitter)
 
 ## 📂 Projects
 
