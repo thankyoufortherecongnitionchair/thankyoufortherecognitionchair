@@ -26,8 +26,8 @@ I'm Aniruddh, a B.Tech Student at Vellore Institute of Technology, Tamil Nadu. W
 
 ## 📂 Projects
 
-- [Project 1](https://github.com/yourusername/project1): Short description
-- [Project 2](https://github.com/yourusername/project2): Short description
-
+- Vinyl Vue Front end (https://github.com/yourusername/project1): A fully functional and dynamic web app made using angular Typescript.
+- Vinyl Vue dashboard+backend(https://github.com/yourusername/project2): the backend to my blog site made through angular, firestore and bootstrap. involves also a dashboard frontend 
+- Espy (https://github.com/yourusername/project1): A highly robust mailing system that mails users  data about the latest music reviews available by using scraping. also suggests moods entirely based on mood powered by Google palm's bison llm.
 Feel free to explore my repositories and let's connect!
 
