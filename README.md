@@ -1,5 +1,7 @@
 # thankyoufortherecognitionchair
 
+![WhatsApp Video 2023-12-05 at 00 11 01](https://github.com/thankyoufortherecongnitionchair/thankyoufortherecongnitionchair/assets/77891681/54465ba2-329e-4833-8091-953e0edf1533)
+
 
 https://github.com/thankyoufortherecongnitionchair/thankyoufortherecongnitionchair/assets/77891681/a7627e33-6608-4876-85f2-0384e30d8c23
 
