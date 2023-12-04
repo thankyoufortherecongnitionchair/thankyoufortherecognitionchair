@@ -1,8 +1,6 @@
 # thankyoufortherecognitionchair
 
 
-
-
 https://github.com/thankyoufortherecongnitionchair/thankyoufortherecongnitionchair/assets/77891681/a7627e33-6608-4876-85f2-0384e30d8c23
 
 My username originates from my days in school when I did MUNs. "thank you for the recognition, chair" was a phrase frequented in the circuit. I found it cool and here we are.
