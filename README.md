@@ -1,11 +1,7 @@
 # thankyoufortherecognitionchair
-
-<p align="center">
-  <img src="https://github.com/thankyoufortherecongnitionchair/thankyoufortherecongnitionchair/assets/77891681/54465ba2-329e-4833-8091-953e0edf1533" alt="animated" />
-</p>
-
-
-https://github.com/thankyoufortherecongnitionchair/thankyoufortherecongnitionchair/assets/77891681/a7627e33-6608-4876-85f2-0384e30d8c23
+Aniruddh              |  Tiwari
+:-------------------------:|:-------------------------:
+<video src="https://github.com/thankyoufortherecongnitionchair/thankyoufortherecongnitionchair/assets/77891681/1c9bb549-df6a-4b87-8dc7-18f22f944cbd"/> |  <video src="https://github.com/thankyoufortherecongnitionchair/thankyoufortherecongnitionchair/assets/77891681/a7627e33-6608-4876-85f2-0384e30d8c23" width="400"/>
 
 My username originates from my days in school when I did MUNs. "thank you for the recognition, chair" was a phrase frequented in the circuit. I found it cool and here we are.
 
@@ -19,7 +15,7 @@ I try to make apps that have a personal impact on me. Generally I try to couple 
 
 ## 🚀 Skills
 
-- **Languages:** JavaScript, Python, HTML5, CSS, C++, Typescript, SASS
+- **Languages:** JavaScript, Python, HTML5, CSS, C++, Typescript, SASS 
 - **Frameworks:** Angular, Node.js, Express, Bootstrap
 - **Tools:** Git, VSCode, Firebase, Firestore, Backend as a Service (BaaS)
 - **Databases:** MongoDB, MySQL, Firestore.
