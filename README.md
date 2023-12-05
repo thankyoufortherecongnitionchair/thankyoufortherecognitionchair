@@ -6,7 +6,7 @@ Aniruddh              |  Tiwari
 My username originates from my days in school when I did MUNs. "thank you for the recognition, chair" was a phrase frequented in the circuit. I found it cool and here we are.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thankyoufortherecongnitionchair&hide_progress=true" alt="Top Langs" height="350" width="350">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thankyoufortherecongnitionchair&hide_progress=true" alt="Top Langs">
 </div>
 
 # Hi there
@@ -18,8 +18,12 @@ I'm Aniruddh, a B.Tech Student at Vellore Institute of Technology, Tamil Nadu. W
 I try to make apps that have a personal impact on me. Generally, I try to couple what I've learned to my passions like music, and writing. with each project, tiny or huge, I aim to showcase what I've experienced in the learning process and tie everything back to my development theme.
 
 ## 🚀 Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,angular,sass,cpp,bootstrap,firebase,mongodb,mysql,ts,postman" />
+  </a>
+</p>
 
-- **Languages:** JavaScript, Python, HTML5, CSS, C++, Typescript, SASS 
 - **Frameworks:** Angular, Node.js, Express, Bootstrap
 - **Tools:** Git, VSCode, Firebase, Firestore, Backend as a Service (BaaS)
 - **Databases:** MongoDB, MySQL, Firestore.
