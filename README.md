@@ -1,4 +1,4 @@
-# thankyoufortherecognitionchair
+## ThankYouForTheRecognitionChair
 Aniruddh              |  Tiwari
 :-------------------------:|:-------------------------:
 <video src="https://github.com/thankyoufortherecongnitionchair/thankyoufortherecongnitionchair/assets/77891681/1c9bb549-df6a-4b87-8dc7-18f22f944cbd"/> |  <video src="https://github.com/thankyoufortherecongnitionchair/thankyoufortherecongnitionchair/assets/77891681/a7627e33-6608-4876-85f2-0384e30d8c23" width="400"/>
