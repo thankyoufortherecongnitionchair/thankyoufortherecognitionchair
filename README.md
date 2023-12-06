@@ -20,7 +20,7 @@ I try to make apps that have a personal impact on me. Generally, I try to couple
 ## 🚀 Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,angular,sass,cpp,bootstrap,firebase,mongodb,mysql,ts,postman" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,mysql,sass,ts,postman,angular,mongodb,firebase,cpp" />
   </a>
 </p>
 
